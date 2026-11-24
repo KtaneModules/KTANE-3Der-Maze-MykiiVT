@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 615501dbe4f3fe94fbf4b564abb10237, type: 3}
+  m_Name: ModConfig
+  m_EditorClassIdentifier: 
+  id: 3DerMaze
+  title: 3DerMaze
+  author: MykiiVT
+  description: "3Der Maze 1.0\nYou are in a maze of twisty passages, all alike. Exits
+    are to the north, south, east, west, top, and bottom.\n\nNavigate a 3D maze which
+    the defuser sees in a first-person perspective. Identify the correct maze by finding
+    floating letters.\n\nModule ID: 3DerMaze\n\nArrow textures taken from Spare Wizard's
+    3D Maze\nButton texture taken from Vanilla Keypad\nOther texures & all models
+    by MykiiVT\n\nManual available here:\n\nPlease let me know about any bugs on discord
+    at mykiivt :)\r\n---\r\nBuild 1.0 notes:\r\n- Initial release"
+  version: 1.0
+  outputFolder: build
+  debugBuild: 1
+  previewImage: {fileID: 2800000, guid: 80fe82aed5e5d9a4d8ef7bd52b065f46, type: 3}
